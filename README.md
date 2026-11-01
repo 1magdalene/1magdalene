@@ -1,6 +1,6 @@
 ### `1magdalene` 🇰🇪
 
-> <sub>BBIT student. I build websites and systems, and I'm slowly becoming full stack. Please hold.</sub>
+> BBIT student. I build websites and systems, and I'm slowly becoming full stack. Please hold.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
