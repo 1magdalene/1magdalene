@@ -32,7 +32,7 @@ const magdalene = {
 
 - **[Creative portfolio](https://ngarugem.vercel.app)**: a portfolio site that shows off a friend's video editing, videography and graphic design work
 - **[Soup business order system](https://tukunywesupu.onrender.com)**: a customer order form, plus an admin page where the owner tracks deliveries and payments and sends customers WhatsApp updates on their orders
-- **[Imara IT solutions website](https://imara-beryl.vercel.app)**: deployed, still in progress (the "it works, let me just tweak one thing" phase)
+- **[Imara IT solutions website](https://imara-beryl.vercel.app)**: deployed, still in progress, it works, let me just tweak one thing
 
 #### `// currently building`
 
