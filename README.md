@@ -48,6 +48,6 @@ const magdalene = {
 [![linkedin](https://img.shields.io/badge/linkedin-wangari--magdaline-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/wangari-magdaline)
 [![email](https://img.shields.io/badge/email-magdalene.w.wanjiku@gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:magdalene.w.wanjiku@gmail.com)
 
-## `// fried attention span`
+#### `// fried attention span`
 
-<img src="https://raw.githubusercontent.com/1magdalene/1magdalene/output/snake.svg" width="600">
+![snake](https://raw.githubusercontent.com/1magdalene/1magdalene/output/snake.svg)
