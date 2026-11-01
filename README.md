@@ -16,7 +16,7 @@ const magdalene = {
   stack:     ["JavaScript", "React", "Expo", "Python"],
   status:    "aspiring full stack (loading...)",
   learning:  ["backend", "databases", "deployment", "django"],
-  fuel:      "deadlines and protein",
+  fuel:      "deadlines and cat videos",
 };
 ```
 
