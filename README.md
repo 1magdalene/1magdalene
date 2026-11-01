@@ -30,8 +30,8 @@ const magdalene = {
 
 #### `// built`
 
-- **[Creative portfolio](https://ngarugem.vercel.app)**: a site for a friend who is a video editor, videographer and graphic designer
-- **[Soup business order system](https://tukunywesupu.onrender.com)**: an order form with order tracking, so the soup gets ordered *and* found
+- **[Creative portfolio](https://ngarugem.vercel.app)**: a portfolio site that shows off a friend's video editing, videography and graphic design work
+- **[Soup business order system](https://tukunywesupu.onrender.com)**: a customer order form, plus an admin page where the owner tracks deliveries and payments and sends customers WhatsApp updates on their orders
 - **[Imara IT solutions website](https://imara-beryl.vercel.app)**: deployed, still in progress (the "it works, let me just tweak one thing" phase)
 
 #### `// currently building`
@@ -48,6 +48,6 @@ const magdalene = {
 [![linkedin](https://img.shields.io/badge/linkedin-wangari--magdaline-0A66C2?style=flat&logo=linkedin)](https://linkedin.com/in/wangari-magdaline)
 [![email](https://img.shields.io/badge/email-magdalene.w.wanjiku@gmail.com-333?style=flat&logo=gmail&logoColor=white)](mailto:magdalene.w.wanjiku@gmail.com)
 
-#### `// fried attention span`
+## `// fried attention span`
 
 <img src="https://raw.githubusercontent.com/1magdalene/1magdalene/output/snake.svg" width="600">
